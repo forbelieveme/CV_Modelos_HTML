@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "samurai";
+  src: url("samurai.ttf");
+}
+
+h1 {
+  font-family: "samurai";
+  font-size: 300%;
+  color: #CC3F48 ;
+}
+section {
+	
+	margin-left: 700px;
+	color: #688F96;
+
+	
+}
+
+article {
+	
+	float: left;
+	margin-left: 250px;
+	
+}
+ul {
+	margin-left: 1000px;
+	margin-top: -300px;
+	color: #688F96;
+
+}
+ol{
+	margin-left: 1350px;
+	margin-top: -285px;
+	color: #688F96;
+
+}
+img{
+ padding: 10px; margin: 40px; border: 15px solid black; float: right; width: 150px; 
+}
+body{ 
+	background: url(fondo2.jpg);
+	font-size: large;
+	
+}
+h2,h3{
+	color: #6B182C;
+
+}
+
